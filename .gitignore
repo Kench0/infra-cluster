@@ -4,4 +4,7 @@ terraform.tfvars
 .terraform/
 *.tfstate
 *.tfstate.backup
-
+.ansible-worker/
+secrets.yml
+vaul_pass.txt
+*.retry
