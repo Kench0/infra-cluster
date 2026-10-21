@@ -1,0 +1,7 @@
+*.auto.tfvars
+secrets.auto.tfvars
+terraform.tfvars
+.terraform/
+*.tfstate
+*.tfstate.backup
+
